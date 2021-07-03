@@ -1,0 +1,16 @@
+# entgo.io/ent v0.8.1-0.20210703051936-d1c44ef0cb53
+## explicit
+entgo.io/ent
+entgo.io/ent/dialect
+entgo.io/ent/dialect/entsql
+entgo.io/ent/dialect/sql
+entgo.io/ent/dialect/sql/schema
+entgo.io/ent/dialect/sql/sqlgraph
+entgo.io/ent/entql
+entgo.io/ent/schema
+entgo.io/ent/schema/edge
+entgo.io/ent/schema/field
+entgo.io/ent/schema/index
+# github.com/google/uuid v1.2.0
+## explicit
+github.com/google/uuid
